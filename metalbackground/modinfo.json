@@ -1,0 +1,21 @@
+{
+    "context": "client",
+    "identifier": "com.pa.stuart98.metalbackground",
+    "display_name": "Metal Planet Background Mod",
+    "description": "Replaces the earth planet background with the promotional metal planet art.",
+    "author": "Stuart98",
+    "version": "1.2",
+    "signature": "not yet implemented",
+    "priority": 100,
+    "enabled": true,
+    "id": "metalbackground",
+    "icon": "http://pamods.github.io/icons/metalbackground.jpg",
+    "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
+    "category": [
+        "Main-Menu",
+        "Background",
+        "Metal"
+    ],
+    "date": "2016/04/18",
+    "build": "89755"
+}
